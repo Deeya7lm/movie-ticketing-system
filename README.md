@@ -1,0 +1,1 @@
+clone into htdocs folder and import database.
