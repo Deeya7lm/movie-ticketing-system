@@ -7,7 +7,7 @@ if (session_status() === PHP_SESSION_NONE) {
 $db_host = 'localhost';
 $db_user = 'root';
 $db_pass = '';
-$db_name = 'movietic';
+$db_name = 'CineSwift';
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
 

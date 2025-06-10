@@ -48,7 +48,7 @@ $popular_movies = $conn->query("
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Dashboard - MovieTic</title>
+    <title>Admin Dashboard - CineSwift</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="css/admin.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -57,7 +57,7 @@ $popular_movies = $conn->query("
     <div class="admin-container">
         <aside class="admin-sidebar">
             <div class="admin-logo">
-                <h2><i class="fas fa-film"></i> MovieTic</h2>
+                <h2><i class="fas fa-film"></i> CineSwift</h2>
             </div>
             <nav class="admin-nav">
                 <ul>

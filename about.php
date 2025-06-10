@@ -7,7 +7,7 @@ require_once 'includes/functions.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - MovieTic</title>
+    <title>About Us - CineSwift</title>
     <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -273,7 +273,7 @@ require_once 'includes/functions.php';
             <nav>
                 <div class="logo">
                     <a href="index.php">
-                        <h1><i class="fas fa-film"></i> MovieTic</h1>
+                        <h1><i class="fas fa-film"></i> CineSwift</h1>
                     </a>
                 </div>
                 <ul class="nav-links">
@@ -302,12 +302,12 @@ require_once 'includes/functions.php';
         <section class="about-section">
             <div class="about-container">
                 <div class="page-title">
-                    <h1>About Movietic</h1>
+                    <h1>About CineSwift</h1>
                 </div>
                 
                 <div class="about-content full-width">
                     <div class="about-text">
-                        <p>Welcome to Movietic, your premier destination for an exceptional movie-watching experience in the heart of the city. Since our establishment, we have been committed to providing the finest cinematic experience to our valued patrons.</p>
+                        <p>Welcome to CineSwift, your premier destination for an exceptional movie-watching experience in the heart of the city. Since our establishment, we have been committed to providing the finest cinematic experience to our valued patrons.</p>
                         <p>Our state-of-the-art cinema hall is equipped with the latest audio-visual technology, comfortable seating, and modern amenities to ensure you enjoy every moment of your movie experience. With a seating capacity of 100, we maintain the perfect balance between accessibility and comfort.</p>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ require_once 'includes/functions.php';
                 </div>
                 
                 <div class="features-section">
-                    <h2>Why Choose Movietic?</h2>
+                    <h2>Why Choose CineSwift?</h2>
                     <div class="features-grid">
                         <div class="feature-item">
                             <i class="fas fa-couch"></i>
@@ -386,7 +386,7 @@ require_once 'includes/functions.php';
         <div class="footer-container">
             <div class="footer-top">
                 <div class="footer-logo">
-                    <h2><i class="fas fa-film"></i> MovieTic</h2>
+                    <h2><i class="fas fa-film"></i> CineSwift</h2>
                     <p>Your premier destination for movie tickets booking.</p>
                 </div>
                 <div class="footer-links">
@@ -410,13 +410,13 @@ require_once 'includes/functions.php';
                         <ul class="contact-info">
                             <li><i class="fas fa-map-marker-alt"></i> 123 Movie Street, Banepa</li>
                             <li><i class="fas fa-phone"></i> +977 9841144440</li>
-                            <li><i class="fas fa-envelope"></i> info@movietic.com</li>
+                            <li><i class="fas fa-envelope"></i> info@CineSwift.com</li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <?php echo date('Y'); ?> MovieTic. All rights reserved.</p>
+                <p>&copy; <?php echo date('Y'); ?> CineSwift. All rights reserved.</p>
             </div>
         </div>
     </footer>

@@ -1,6 +1,6 @@
 <?php
 /**
- * Booking management functions for MovieTic admin panel
+ * Booking management functions for CineSwift admin panel
  */
 
 // Create a new booking (admin can create bookings for users)

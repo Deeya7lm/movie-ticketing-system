@@ -73,7 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isLoggedIn()) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo htmlspecialchars($movie['title']); ?> - MovieTic</title>
+    <title><?php echo htmlspecialchars($movie['title']); ?> - CineSwift</title>
     <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
 </head>
 <body>

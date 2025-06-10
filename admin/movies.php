@@ -62,7 +62,7 @@ $has_trailer_url = $conn->query("SHOW COLUMNS FROM movies LIKE 'trailer_url'")->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Movies - MovieTic Admin</title>
+    <title>Manage Movies - CineSwift Admin</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="css/admin.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -71,7 +71,7 @@ $has_trailer_url = $conn->query("SHOW COLUMNS FROM movies LIKE 'trailer_url'")->
     <div class="admin-container">
         <aside class="admin-sidebar">
             <div class="admin-logo">
-                <h2>MovieTic Admin</h2>
+                <h2>CineSwift Admin</h2>
             </div>
             <nav class="admin-nav">
                 <ul>

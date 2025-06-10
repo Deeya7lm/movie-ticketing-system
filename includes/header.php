@@ -1,7 +1,7 @@
 <header>
     <nav>
         <div class="logo">
-            <h1>MovieTic</h1>
+            <h1>CineSwift</h1>
         </div>
         <ul class="nav-links">
             <li><a href="index.php" <?php echo ($_SERVER['PHP_SELF'] == '/index.php') ? 'class="active"' : ''; ?>>Home</a></li>

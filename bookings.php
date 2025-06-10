@@ -70,7 +70,7 @@ $has_total_amount = $conn->query("SHOW COLUMNS FROM bookings LIKE 'total_amount'
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Bookings - MovieTic</title>
+    <title>Manage Bookings - CineSwift</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -89,7 +89,7 @@ $has_total_amount = $conn->query("SHOW COLUMNS FROM bookings LIKE 'total_amount'
             <div class="home-section">
                 <div class="welcome-banner">
                     <div class="welcome-content">
-                        <h2><i class="fas fa-film"></i> Welcome to MovieTic</h2>
+                        <h2><i class="fas fa-film"></i> Welcome to CineSwift</h2>
                         <p>Manage your bookings and discover new movies to watch!</p>
                         <div class="action-buttons">
                             <a href="index.php" class="btn primary"><i class="fas fa-home"></i> Home Page</a>
@@ -97,7 +97,7 @@ $has_total_amount = $conn->query("SHOW COLUMNS FROM bookings LIKE 'total_amount'
                         </div>
                     </div>
                     <div class="featured-image">
-                        <img src="images/cinema.jpg" alt="Cinema" onerror="this.src='https://via.placeholder.com/400x200?text=MovieTic'">
+                        <img src="images/cinema.jpg" alt="Cinema" onerror="this.src='https://via.placeholder.com/400x200?text=CineSwift'">
                     </div>
                 </div>
                 

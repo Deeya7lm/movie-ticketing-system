@@ -7,7 +7,7 @@ require_once 'includes/functions.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MovieTic - Book Your Movie Tickets</title>
+    <title>CineSwift - Book Your Movie Tickets</title>
     <link rel="stylesheet" href="css/style.css?v=<?php echo time(); ?>">
     <style>
         /* Enhanced Movie Card Styling */
@@ -260,7 +260,7 @@ require_once 'includes/functions.php';
             <nav>
                 <div class="logo">
                     <a href="index.php">
-                        <h1><i class="fas fa-film"></i> MovieTic</h1>
+                        <h1><i class="fas fa-film"></i> CineSwift</h1>
                     </a>
                 </div>
                 <ul class="nav-links">
@@ -292,9 +292,9 @@ require_once 'includes/functions.php';
             <div class="carousel-container">
                 <div class="carousel-slides">
                     <div class="carousel-slide active">
-                        <img src="images/carousel/carousel1.jpg" alt="MovieTic Carousel 1">
+                        <img src="images/carousel/carousel1.jpg" alt="CineSwift Carousel 1">
                         <div class="carousel-caption">
-                            <h2 class="animate__animated animate__fadeInUp">Welcome to MovieTic</h2>
+                            <h2 class="animate__animated animate__fadeInUp">Welcome to CineSwift</h2>
                             <p class="animate__animated animate__fadeInUp">Book your tickets online and enjoy the latest blockbusters in premium theaters</p>
                         </div>
                     </div>
@@ -454,7 +454,7 @@ require_once 'includes/functions.php';
         <div class="footer-container">
             <div class="footer-top">
                 <div class="footer-logo">
-                    <h2><i class="fas fa-film"></i> MovieTic</h2>
+                    <h2><i class="fas fa-film"></i> CineSwift</h2>
                     <p>Your premier destination for movie tickets booking.</p>
                    
                 </div>
@@ -479,14 +479,14 @@ require_once 'includes/functions.php';
                         <ul class="contact-info">
                             <li><i class="fas fa-map-marker-alt"></i> 123 Movie Street, Banepa</li>
                             <li><i class="fas fa-phone"></i> +977 9841144440</li>
-                            <li><i class="fas fa-envelope"></i> info@movietic.com</li>
+                            <li><i class="fas fa-envelope"></i> info@CineSwift.com</li>
                             
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 MovieTic. All rights reserved.</p>
+                <p>&copy; 2025 CineSwift. All rights reserved.</p>
                
                
             </div>

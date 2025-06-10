@@ -155,7 +155,7 @@ if (isset($booking['price']) && isset($booking['number_of_seats'])) {
 <div class="booking-success-container">
     <div class="booking-card">
         <div class="booking-header">
-            <h2>MovieTic</h2>
+            <h2>CineSwift</h2>
             <h3>Booking Confirmed</h3>
         </div>
         <div class="booking-body">

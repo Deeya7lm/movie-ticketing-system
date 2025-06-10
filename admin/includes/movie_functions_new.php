@@ -1,6 +1,6 @@
 <?php
 /**
- * Movie management functions for MovieTic admin panel
+ * Movie management functions for CineSwift admin panel
  */
 require_once __DIR__ . '/showtime_functions.php';
 

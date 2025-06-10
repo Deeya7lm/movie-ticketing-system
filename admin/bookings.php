@@ -63,7 +63,7 @@ $has_total_amount = $conn->query("SHOW COLUMNS FROM bookings LIKE 'total_amount'
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Bookings - MovieTic Admin</title>
+    <title>Manage Bookings - CineSwift Admin</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="css/admin.css">
     <link rel="stylesheet" href="css/filter-styles.css">
@@ -73,7 +73,7 @@ $has_total_amount = $conn->query("SHOW COLUMNS FROM bookings LIKE 'total_amount'
     <div class="admin-container">
         <aside class="admin-sidebar">
             <div class="admin-logo">
-                <h2>MovieTic Admin</h2>
+                <h2>CineSwift Admin</h2>
             </div>
             <nav class="admin-nav">
                 <ul>

@@ -59,7 +59,7 @@ $users = $conn->query("
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manage Users - MovieTic Admin</title>
+    <title>Manage Users - CineSwift Admin</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="css/admin.css">
 </head>
@@ -67,7 +67,7 @@ $users = $conn->query("
     <div class="admin-container">
         <aside class="admin-sidebar">
             <div class="admin-logo">
-                <h2>MovieTic Admin</h2>
+                <h2>CineSwift Admin</h2>
             </div>
             <nav class="admin-nav">
                 <ul>

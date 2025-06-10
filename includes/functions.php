@@ -1,6 +1,6 @@
 <?php
 /**
- * Frontend helper functions for MovieTic
+ * Frontend helper functions for CineSwift
  */
 
 /**

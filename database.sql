@@ -1,6 +1,6 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS movietic;
-USE movietic;
+CREATE DATABASE IF NOT EXISTS CineSwift;
+USE CineSwift;
 
 -- Users table
 CREATE TABLE users (
@@ -68,7 +68,7 @@ CREATE TABLE bookings (
 
 -- Insert sample admin user (password: admin123)
 INSERT INTO users (username, email, password, role) VALUES
-('admin', 'admin@movietic.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin');
+('admin', 'admin@CineSwift.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin');
 
 -- Insert sample theater
 INSERT INTO theaters (name, total_seats) VALUES

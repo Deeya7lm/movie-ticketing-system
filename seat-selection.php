@@ -132,7 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['selected_seats']) && 
         $price_per_seat = $showtime['price'];
         $total_amount = $number_of_seats * $price_per_seat;
         $user_id = $_SESSION['user_id'];
-        $order_id = 'MOVIETIC_' . time() . '_' . rand(1000, 9999);
+        $order_id = 'CineSwift_' . time() . '_' . rand(1000, 9999);
 
         // Start transaction to ensure all changes are applied together
         $conn->begin_transaction();

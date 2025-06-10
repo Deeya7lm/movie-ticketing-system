@@ -1,6 +1,6 @@
 <?php
 /**
- * Showtime management functions for MovieTic admin panel
+ * Showtime management functions for CineSwift admin panel
  */
 
 // Create a new showtime
