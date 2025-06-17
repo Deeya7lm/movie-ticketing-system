@@ -477,8 +477,8 @@ require_once 'includes/functions.php';
                     <div class="footer-section">
                         <h3>Contact Us</h3>
                         <ul class="contact-info">
-                            <li><i class="fas fa-map-marker-alt"></i> 123 Movie Street, Banepa</li>
-                            <li><i class="fas fa-phone"></i> +977 9841144440</li>
+                            <li><i class="fas fa-map-marker-alt"></i> 123 Movie Street, Dudhpati</li>
+                            <li><i class="fas fa-phone"></i> +977 9808013295</li>
                             <li><i class="fas fa-envelope"></i> info@CineSwift.com</li>
                             
                         </ul>

@@ -1,6 +1,6 @@
 /* Admin Dashboard Styles */
 .admin-body {
-    background-color: #f4f6f9;
+    background-color: hwb(0 96% 2%);
     min-height: 100vh;
 }
 
@@ -12,7 +12,7 @@
 .admin-sidebar {
     width: 250px;
     background-color: #2c3e50;
-    color: white;
+    color: pink;
     padding: 20px 0;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .admin-nav a {
-    color: rgba(255,255,255,0.8);
+    color: rgba(206, 35, 35, 0.8);
     text-decoration: none;
     padding: 12px 20px;
     display: flex;
@@ -47,8 +47,8 @@
 
 .admin-nav a:hover,
 .admin-nav a.active {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
+    background-color: rgba(121, 168, 11, 0.1);
+    color: rgb(255, 255, 255);
 }
 
 .admin-nav i {
@@ -72,7 +72,7 @@
 .dashboard-header h1 {
     margin: 0;
     font-size: 28px;
-    color: #2c3e50;
+    color: #1986f3;
 }
 
 .stats-grid {
@@ -129,10 +129,10 @@
 }
 
 .dashboard-card {
-    background: white;
+    background: rgb(212, 28, 28);
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(131, 6, 6, 0.1);
 }
 
 .dashboard-card h2 {
@@ -301,13 +301,13 @@
 }
 
 .status-confirmed {
-    background-color: #d4edda;
-    color: #155724;
+    background-color: #e0dd28;
+    color: #507458;
 }
 
 .status-cancelled {
     background-color: #f8d7da;
-    color: #721c24;
+    color: #b66f76;
 }
 
 /* Forms */
@@ -360,7 +360,7 @@
 }
 
 .btn-primary {
-    background-color: #ff4d4d;
+    background-color: #be4e4e;
     color: #fff;
 }
 

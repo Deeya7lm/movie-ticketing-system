@@ -72,4 +72,4 @@ INSERT INTO users (username, email, password, role) VALUES
 
 -- Insert sample theater
 INSERT INTO theaters (name, total_seats) VALUES
-('Main Hall', 100);
+('Main Hall', 100),('QFX',150),('Iplex',200);

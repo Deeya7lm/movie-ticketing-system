@@ -26,13 +26,13 @@
 .filter-header h3 {
     margin: 0 0 1rem 0;
     font-size: 1.25rem;
-    color: #333;
+    color: #8ddd23;
     font-weight: 600;
 }
 
 .filter-header h3 i {
     margin-right: 8px;
-    color: #007bff;
+    color: #880d63;
 }
 
 .active-filters {
@@ -50,8 +50,8 @@
 }
 
 .filter-badge {
-    background-color: #e9f5ff;
-    color: #0066cc;
+    background-color: #ced2d4;
+    color: #a81c46;
     padding: 6px 12px;
     border-radius: 20px;
     font-size: 0.9rem;
